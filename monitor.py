@@ -152,7 +152,4 @@ def main():
 
 
 if __name__ == "__main__":
-    discord_senden(
-        "TEST ERFOLGREICH!",
-        "https://www.grisu-car.eu"
-    )
+    main()
